@@ -1,9 +1,9 @@
 # -*- encoding: utf-8 -*-
 '''
 @Time    :   2022/01/09 23:20:58
-@Author  :   Rao Guangxiang 
+@Author  :   funnygiraffe 
 @Version :   1.0
-@Contact :   raogx.vip@hotmail.com
+@Contact :   funnygiraffe@hotmail.com
 @License :   (C)Copyright 2017-2018, Liugroup-NLPR-CASIA
 @Desc    :   None
 @File    :   ch5_1_1.py
