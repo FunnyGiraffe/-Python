@@ -5,7 +5,7 @@
 @Version :   1.0
 @Contact :   funnygiraffe@hotmail.com
 @License :   (C)Copyright 2017-2018, Liugroup-NLPR-CASIA
-@Desc    :   None
+@Desc    :   水仙花数-while循环版
 @File    :   ch5_1_1.py
 '''
 
