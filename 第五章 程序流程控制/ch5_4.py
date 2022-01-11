@@ -12,7 +12,6 @@
 # here put the import lib
 i = 100
 while i < 1000:
-
     op = i%10   # one place
     tp = i//10 % 10     # ten place
     hp = i//100 % 10    # hundreds place
